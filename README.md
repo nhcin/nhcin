@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nhcin
+- 👋 Hi, I’m @sj-thecoder
 - 👀 I’m interested in coding and work on some opensource projects
 - 💞️ I’m looking to collaborate on coders all over the world
 - 📫 How to reach me...hmm...reach me here in github itself
